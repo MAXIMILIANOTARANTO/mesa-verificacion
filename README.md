@@ -8,6 +8,7 @@ Sirve para una sola clase de acto: enunciar una hipótesis, intentar falsearla, 
 |---|---|
 | Cómo se trabaja | [`protocolo/CICLO.md`](protocolo/CICLO.md) |
 | Quién entra | [`colegas/MANIFEST.md`](colegas/MANIFEST.md) |
+| Sala de un caso | [`sala/`](sala/) |
 | Enunciados | [`hipotesis/`](hipotesis/) |
 | Lo que no se sostuvo | [`falseamientos/`](falseamientos/) |
 | Lo que sí se sostuvo | [`verificaciones/`](verificaciones/) |
